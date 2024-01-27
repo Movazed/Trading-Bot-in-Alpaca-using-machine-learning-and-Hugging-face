@@ -1,0 +1,3 @@
+API_KEY = "PKXBVM5UBWJJVUR7834T"
+API_SECRET = "9gBHdg00di4MYWvXzBypB30vP74fB7hxY5wlUg8C"
+BASE_URL = "https://paper-api.alpaca.markets"
